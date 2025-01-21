@@ -146,7 +146,7 @@ export const projects: ProjectType[] = [
 
 ];
 
-export const feedbacks: FeedbackType[] = [
+// export const feedbacks: FeedbackType[] = [
 //   {
 //     name: "Syed Jamal",
 //     role: "Frontend Developer at Meganos Software",
@@ -165,7 +165,7 @@ export const feedbacks: FeedbackType[] = [
 //     feedback:
 //       "Very skilled at what he does and has an in depth knowledge of Django and he's always ready to handle any challenges thrown at him. He's been a valuable member of my team and i look forward to working with him in the years to come",
 //   },
-];
+// ];
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
