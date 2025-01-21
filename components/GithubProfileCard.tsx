@@ -21,10 +21,10 @@ const GithubProfileCard = ({ avatar_url, bio, location }: GithubUserType) => {
               <h2 className="text-white">Reach Out to me!</h2>
               <p className="lead text-white mt-3">DISCUSS A PROJECT OR JUST WANT TO SAY HI? MY INBOX IS OPEN FOR ALL</p>
               <p className="text-white mt-3">{bio}</p>
-              <div className="my-3 icon-shape bg-gradient-white shadow rounded text-info">
+              {/* <div className="my-3 icon-shape bg-gradient-white shadow rounded text-info">
                 <i className="ni ni-pin-3 text-info mr-2" />
                 {location}
-              </div>
+              </div> */}
               <SocialLinks />
             </Col>
           </Row>
