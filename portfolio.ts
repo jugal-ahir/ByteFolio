@@ -16,7 +16,7 @@ export const greetings: GreetingsType = {
   title: "Hi all, I'm Jugal",
   description:
     "I'm a code-slinging Full Stack web developer with hands-on experience building Full Stack web apps using  React.js, and a sprinkle of Data Structures. I have an insatiable curiosity for the latest tech trends and love deploying them in my projects (sometimes just to see what breaks!). A self-driven problem-solver, I thrive on caffeine, collaboration, and the occasional debugging victory dance. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.",
-  resumeLink: "https://drive.google.com/file/d/1lr7j2utLrgAdlgKciyRQGnubioa9TpsE/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/1gqjdz4xvWI2T21ey6TZkHWcYv8SemBho/view?usp=sharing",
 };
 
 export const openSource = {
