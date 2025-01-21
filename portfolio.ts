@@ -27,7 +27,7 @@ export const contact = {};
 
 export const socialLinks: SocialLinksType = {
   email: "mailto:vaghmashijugal@gmail.com",
-  linkedin: "www.linkedin.com/in/jugalvaghmashi",
+  linkedin: "https://www.linkedin.com/in/jugalvaghmashi",
   github: "https://github.com/jugal-ahir",
   instagram: "https://www.instagram.com/meahir.jugal",
 };
