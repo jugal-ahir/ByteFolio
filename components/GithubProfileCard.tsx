@@ -10,12 +10,14 @@ const GithubProfileCard = ({ avatar_url, bio, location }: GithubUserType) => {
         <div className="p-2">
           <Row className="">
             <Col className="order-lg-2" lg="4">
-              <img
-                src={avatar_url}
-                style={{ width: "200px" }}
-                alt=""
-                className="rounded-circle img-center img-fluid shadow shadow-lg--hover mb-4"
-              />
+              {avatar_url && (
+                <img
+                  src={avatar_url}
+                  style={{ width: "200px" }}
+                  alt=""
+                  className="rounded-circle img-center img-fluid shadow shadow-lg--hover mb-4"
+                />
+              )}
             </Col>
             <Col lg="8" className="order-lg-1">
               <h2 className="text-white">Reach Out to me!</h2>
